@@ -14,6 +14,7 @@
 Hardware: STM32 (Cortex-M4/M0+), MPPT Power Harvesting, Li-ion Protection, Precision Sensing.
 Interfaces: I2C, SPI, UART, SWD.
 
+
 Как пользоваться
 В каждой директории проекта вы найдете:
 !ProjectName.pdf — полная схема и топология для быстрого ознакомления.
