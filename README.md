@@ -10,7 +10,8 @@
 2. Electrical Power System (EPS)
 Модуль электропитания с поддержкой MPPT (вход от 1В) и выходными шинами 3.3В / 5В. Базируется на STM32L051C8T6 и контроллерах LTC3105 / BQ29700 для интеллектуального управления 
 зарядом и защиты АКБ.
-<img width="828" height="760" alt="image" src="https://github.com/user-attachments/assets/26874ece-1e2c-4eb8-b4d8-b46ea6f02c54" />
+<img width="1280" height="887" alt="image" src="https://github.com/user-attachments/assets/a0414faa-ae56-4685-bbf6-023cdab5c6a1" />
+
 
 Технологический стек: * CAD: Altium Designer (Multi-sheet Schematics, PCB Layout, OutJob).
 Hardware: STM32 (Cortex-M4/M0+), MPPT Power Harvesting, Li-ion Protection, Precision Sensing.
