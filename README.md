@@ -12,7 +12,7 @@
 
 Технологический стек: * CAD: Altium Designer (Multi-sheet Schematics, PCB Layout, OutJob).
 Hardware: STM32 (Cortex-M4/M0+), MPPT Power Harvesting, Li-ion Protection, Precision Sensing.
-Interfaces: I2C, SPI, UART, SWD.
+Interfaces: I2C, SPI, UART, SWD.  
 
 
 Как пользоваться
